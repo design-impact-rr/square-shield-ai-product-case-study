@@ -1,8 +1,8 @@
 To quickly understand this work sample:
 - Read the overview and problem section in [README.md](README.md).
 - Skim [research/insights-summary.md](research/insights-summary.md) for 100‑review insights.
-- Review [/product/prd.md](https://github.com/design-impact-rr/square-shield-ai-product-case-study/blob/main/product/prd.md) to see how insights translate into an AI‑native product.
-- Check [ai-playbooks/discovery-prompts.md](ai-playbooks/discovery-prompts.md) to see how AI was used in discovery.
+- Review [product/prd.md](https://github.com/design-impact-rr/square-shield-ai-product-case-study/blob/main/product/prd.md) to see how insights translate into an AI‑native product.
+- Check [ai-playbooks/discovery-prompts.md](https://github.com/design-impact-rr/square-shield-ai-product-case-study/blob/main/ai-playbooks/discovery-prompts.md) to see how AI was used in discovery.
 
 
 # Square Shield – AI‑Native Risk & Reliability Layer for Square Sellers
