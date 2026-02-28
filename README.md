@@ -1,8 +1,9 @@
 To quickly understand this work sample:
-- Read the overview and problem section in [README.md](README.md).
+- Read the overview and problem section right here.
 - Skim [research/insights-summary.md](research/insights-summary.md) for 100-review insights.
-- Review [product/prd.md](product/prd.md) to see how insights translate into an AI-native product.
-- Check [ai-playbooks/discovery-prompts.md](ai-playbooks/discovery-prompts.md) to see how AI was used in discovery.
+- Review [research/product/prd-or-one-pager.md](research/product/prd-or-one-pager.md) to see how insights translate into an AI-native product.
+- Check [research/product/ai-playbooks/discovery-prompts.md](research/product/ai-playbooks/discovery-prompts.md) to see how AI was used in discovery.
+
 
 
 
