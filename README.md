@@ -1,3 +1,9 @@
+To quickly understand this work sample:
+- Read the overview and problem section in README.md.
+- Skim `research/insights-summary.md` for 100‑review insights.
+- Review `product/prd.md` to see how insights translate into an AI‑native product.
+- Check `ai-playbooks/discovery-prompts.md` to see how AI was used in discovery.
+
 # Square Shield – AI‑Native Risk & Reliability Layer for Square Sellers
 
 > Work sample for the Square Associate Product Manager Program (APM) – AI‑native product case study.
@@ -144,17 +150,15 @@ Optional: call out bets you’d explore if you had more time or access to intern
 
 ---
 
-## 11. Repo Structure
+## Repo structure
 
 ```text
 .
 ├── README.md
 ├── research/
 │   ├── insights-summary.md
-│   └── (optional) reviews-structured.csv
+│   └── raw-sources.md
 ├── product/
-│   ├── square-shield-deck-outline.pdf
-│   └── prd-or-one-pager.md
+│   └── prd.md
 └── ai-playbooks/
-    ├── discovery-prompts.md
-    └── product-prompts.md
+    └── discovery-prompts.md
